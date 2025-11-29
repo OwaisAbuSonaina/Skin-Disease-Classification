@@ -35,11 +35,11 @@ This project requires the **HAM10000** dataset. The metadata and image files mus
 
 └── HAM10000/ 
 
-├── HAM10000_metadata.csv 
+  ├── HAM10000_metadata.csv 
 
-├── HAM10000_images_part_1/ 
+  ├── HAM10000_images_part_1/ 
 
-└── HAM10000_images_part_2/
+  └── HAM10000_images_part_2/
 
 
 ### Model Architecture
